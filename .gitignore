@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+.aws/
+
+# Mac
+.DS_Store
+
+# Data files (regenerate locally, don't commit)
+data/raw/
+data/processed/
+*.csv
+*.parquet
+
+# IDE
+.vscode/
+.idea/
