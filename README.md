@@ -76,10 +76,3 @@ solar-forecast/
 - **Week 6:** Demo video, architecture diagram, polish
 - **Future:** MLOps retrofit (DVC + GitHub Actions + drift monitoring)
 
-## Stack
-- Storage: AWS S3
-- Querying: AWS Glue + Athena
-- Modeling: SageMaker Studio (LightGBM, Prophet)
-- Inference: AWS Lambda + API Gateway
-- Frontend: Next.js + Vercel
-- Region: ap-south-1 (Mumbai)
