@@ -1,0 +1,9 @@
+boto3==1.35.0
+joblib==1.5.3
+lightgbm==4.6.0
+numpy==1.26.4
+pandas==2.2.3
+pvlib==0.13.0
+requests==2.32.3
+scipy==1.13.1
+h5py==3.11.0
