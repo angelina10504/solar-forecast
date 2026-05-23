@@ -63,16 +63,16 @@ solar-forecast/
 ├── README.md         # This file
 └── requirements.txt  # Local development deps
 
-## Weeks 1-4 status: complete
+## Status
 
-- **Week 1:** S3 + Glue + Athena pipeline scaffold
-- **Week 2:** 2 years hourly Bhadla data ingested, partitioned, queryable
-- **Week 3:** LightGBM models trained, DSM economics quantified, model artifacts in S3
-- **Week 4:** Production deployment (Lambda + API Gateway, public endpoint)
+- **Week 1:** S3 + Glue + Athena pipeline scaffold ✅
+- **Week 2:** 2 years hourly Bhadla data ingested, partitioned, queryable ✅
+- **Week 3:** LightGBM models trained, DSM economics quantified, model artifacts in S3 ✅
+- **Week 4:** Production deployment (Lambda + API Gateway, public endpoint) ✅
+- **Week 5:** Next.js dashboard deployed on Vercel ✅
+- **Week 6:** Architecture diagrams, demo video, README polish
 
 ## Next
 
-- **Week 5:** Next.js dashboard with map, forecast curves, DSM ₹ panel, what-if sliders
-- **Week 6:** Demo video, architecture diagram, polish
-- **Future:** MLOps retrofit (DVC + GitHub Actions + drift monitoring)
+- MLOps retrofit (DVC + GitHub Actions + drift monitoring)
 
